@@ -548,4 +548,15 @@ footer .footer-content .col .social-icons span svg:hover {
 }
 footer .footer-content .col-2 .title .underline {
   border-bottom: 1px dotted #ffffff;
+}
+
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
 }/*# sourceMappingURL=styles.css.map */
